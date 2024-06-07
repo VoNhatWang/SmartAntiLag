@@ -3,5 +3,6 @@
   
   "version": "1.0.9",
 
-  "1.0.9": "true"
+  "1.0.9": "true",
+  "message": "Shutting down the server because the author doesn't let this plugin work!"
 }
